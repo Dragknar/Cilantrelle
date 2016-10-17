@@ -1,6 +1,2 @@
 # Redesigned-Discord-Octo-Robot
-
-
-
-Dicks lol
-  qqqqqq
+Look at me, I'm a webhook message
